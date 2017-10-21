@@ -24,3 +24,10 @@
 ### app.wxss
 
 小程序的公共样式表，后缀为.wxss
+
+## 页面创建
+
+每一次创建页面都需将路径存放在app.json中，每一个小程序页面都是由同名不同后缀的四个文件组成，比如index.wxml,index.wxss,index.js,index.json
+
+### index.wxml
+
